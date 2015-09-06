@@ -67,7 +67,7 @@ a.site-logo {
 
 ul {
   list-style-type: circle;
-  margin: 20px;
+  margin: 5px;
 }
 
 ul li {
@@ -87,4 +87,17 @@ ul li {
   }
 }
 
+/* make responsive */
+@media screen and (max-width: 320px) {
+  .wrapper {
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 30px;
+    margin: 0 auto;
+  }
+  ul {
+    margin: 0px;
+  }
+}
 
