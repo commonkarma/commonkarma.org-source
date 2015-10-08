@@ -22,4 +22,4 @@ Yes, I'm dead serious.
 
 <br>
 
-This sounds radically ambitious. It has to be. I’m working on a way. Check back here, but it might be a while. [Drop me a line](mailto:vas@commonkarma.org).
+This sounds radically ambitious. It has to be. I’m working on a way. Check back here, but it might be a while. [Drop me a line](mailto:whatif@commonkarma.org).
