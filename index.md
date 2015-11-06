@@ -5,12 +5,13 @@ title: What If?
 
 
 
-**What if** when you come across garbage on the internet, instead of hitting the back button in angry disgust, you could gleefully click on a garbage can? A single click that would...
+**What if** when you come across garbage on the internet, instead of hitting a feeble back button, you could click a garbage can and vanquish the junk from *your* web forever?
 
-- vanquish that page from *your* web forever, or everything from that source if you choose.
-- send a warning to the browsers of like-minded people, helping them avoid the same garbage. 
-- make websites pushing garbage pay. Instead of letting them get away with web murder and boatloads of ad money, they lose traffic and lose profits.
-- turn frustration into a calm sense of satisfaction.
+What if that single, powerful click would also...
+- train your browser to detect repeat offenders and flag or even filter out garbage links? 
+- send a warning to the browsers of like-minded people, helping them avoid the same garbage? 
+- make websites pushing garbage lose traffic and lose profits?
+- turn your frustration into satisfaction?
 
 What if another single click turned it all off, just in case you wanted to see the web in all it filthy glory?  
 
