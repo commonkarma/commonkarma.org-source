@@ -5,7 +5,7 @@ title: What If?
 
 
 
-**What if** when you come across garbage on the internet, instead of hitting a feeble back button, you could click a garbage can and vanquish the junk from *your* web forever?
+**What if** when you come across garbage on the internet, instead of hitting a feeble back button you could click a garbage can and vanquish the junk from *your* web forever?
 
 What if that single, powerful click would also...
 
