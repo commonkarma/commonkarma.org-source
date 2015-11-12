@@ -7,9 +7,9 @@ title: What If?
 
 **What if** when you come across garbage on the internet, instead of hitting a feeble back button you could click a garbage can and vanquish the junk from *your* web forever?
 
-What if that single, powerful click would also...
+What if that single click were powerful enough to...
 
-- train your browser to detect repeat offenders and flag or even filter out garbage links?
+- train your browser to detect and flag garbage links on all pages and search results?
 - send a warning to the browsers of like-minded people, helping them avoid the same garbage?
 - make websites pushing garbage lose traffic and lose profits?
 - turn your frustration into satisfaction?
