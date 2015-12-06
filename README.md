@@ -1,1 +1,1 @@
-Source code for [CommonKarma.org](http://commonkarma.org) website.
+Source code for [commonkarma.org](http://www.commonkarma.org) website.
