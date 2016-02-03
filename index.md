@@ -13,7 +13,7 @@ What if instead you could click <span class="garbage-can">![a trash can](./image
 
 - trained your browser to detect and cross out <del>links to garbage</del>?
 - spread a warning to other people's browsers so they could avoid <del>the same garbage<del>?
-- punished <del>websites pushing garbage</del> with lost traffic and lost profit?
+- punished <del>websites pushing garbage</del> with lost traffic and lost profits?
 
 Would it give you a strange sense of satisfaction? 
 
