@@ -19,13 +19,13 @@ Would it give you a strange sense of satisfaction?
 
 What if this worked not just for outright junk, but <del>low quality stuff</del> too? So many <del>wastes of time</del>. Everyone and their mother has a <del>web page claiming the best way to boil an egg</del>. Or who to vote for. Maybe 1 out of 10 of them are worth your time. Can you imagine not wading through ten <del>pieces of junk</del> to find one good thing?
 
-Of course one person's garbage is another person's treasure. The system would have to be smart enough to only share warnings among people who agreed on what is garbage and what isn't. This is the most most difficult piece of the puzzle, but when it is solved, another beautiful thing emerges: [The system will be inherently un-gameable](link). Dishonesty would always backfire. No loopholes. No tricks. What goes around would *always* came around. A web with **karma**. 
+Of course one person's garbage is another person's treasure. The system would have to be smart enough to only share warnings among people who agreed on what is garbage and what isn't. This is the most difficult piece of the puzzle, but when solved, another beautiful thing emerges: The system will be inherently un-gameable. Dishonesty would always backfire. No loopholes. No tricks. What goes around would *always* came around. A web with **karma**. 
 
 If this sounds radically ambitious, it is. It has to be. 
 
 We need this. A  web that reflects us, our actions, our values. Not those trying to work us. It would be our web, the result of our shared actions. It would reflect **our common karma**.
 
-Everyone's combined <span class="garbage-can">![a trash can](./images/garbage-can.svg)</span> clicks would turn the tables on <del>click bait</del>, <del>scams</del>, <del>false advertising</del> and all other <del>dishonest junk</del>. Healthy discourse would have a chance. Information you could trust would finally start to outnumber the lies. Journalism would be journalism again. 
+Everyone's combined <span class="garbage-can">![a trash can](./images/garbage-can.svg)</span> clicks would turn the tables on <del>click bait</del>, <del>scams</del>, <del>false advertising</del> and all other <del>dishonest junk</del>.  <del>Second-rate stuff</del> would fizzle. Healthy discourse would have a chance. Information you could trust would finally start to outnumber <del>the lies</del>. Journalism would be journalism again. 
 
 <br/>
 
