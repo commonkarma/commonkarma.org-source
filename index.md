@@ -15,7 +15,7 @@ What if instead you could click <span class="garbage-can">![a trash can](./image
 - spread a warning to other people's browsers so they could avoid <del>the same garbage<del>?
 - punished <del>websites pushing garbage</del> with lost traffic and lost profits?
 
-Would it give you a strange sense of satisfaction? 
+Would it give you a warm sense of satisfaction? 
 
 What if this worked not just for outright junk, but <del>low quality stuff</del> too? So many <del>wastes of time</del>. Everyone and their mother has a <del>web page claiming the best way to boil an egg</del>. Or who to vote for. Maybe 1 out of 10 of them are worth your time. Can you imagine not wading through ten <del>pieces of junk</del> to find one good thing?
 
