@@ -64,6 +64,18 @@ a.site-logo {
   color: #ea610b;
 }
 
+.main del {
+    -moz-text-decoration-color: red;
+    text-decoration-color: red;
+}
+
+.garbage-can img {
+  height: 44px;
+  width: 44x;
+  margin-bottom: -10px;
+  margin-left: -3px;
+  margin-right: -3px;
+}
 
 ul {
   list-style-type: circle;
@@ -76,6 +88,7 @@ ul li {
 }
 
 /* make responsive */
+
 @media screen and (max-width: 800px) {
   p.site-logo {
     font-size: 1.83333em;
@@ -85,9 +98,11 @@ ul li {
     font-size: 0.88889em;
     line-height: 1.85625em;
   }
+  h1 {
+    font-size: 1.5em;
+  }
 }
 
-/* make responsive */
 @media screen and (max-width: 320px) {
   .wrapper {
     padding-bottom: 30px;

@@ -12,6 +12,9 @@ github_username:  CommonKarma
 markdown: kramdown
 
 
+kramdown:
+  parse_block_html: true
+
 # these are copied from https://github.com/bookfellas/bookfellas.github.io 
 # not sure if correct or needed.
 permalink: pretty
