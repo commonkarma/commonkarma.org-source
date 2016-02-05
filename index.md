@@ -23,7 +23,7 @@ Of course one person's garbage is another person's treasure. The system has to b
 
 If this sounds radically ambitious, it is. It has to be. 
 
-We need this. A  web that reflects us, our actions, our values. Not those trying to work us. It would be our web, the result of our shared actions. It would reflect **our common karma**.
+We need this. A web that reflects our values, not of those trying to work us. If you use the button honestly, your view of the web would reflect that. If you used it frivolously, you would get a frivolous web. The web we get would be the result of our shared actions. It would reflect **our common karma**.
 
 Everyone's combined <span class="garbage-can">![a trash can](./images/garbage-can.svg)</span> clicks would turn the tables on <del>click bait</del>, <del>scams</del>, <del>false advertising</del> and all other <del>dishonest junk</del>.  <del>Second-rate stuff</del> would fizzle. Healthy discourse would have a chance. Information you could trust would finally start to outnumber <del>the lies</del>. Journalism would be journalism again. 
 
