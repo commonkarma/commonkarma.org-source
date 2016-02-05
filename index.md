@@ -7,7 +7,7 @@ title: What If?
 
 # What if your web browser had a trash can?
 
-You click a link because it promises good stuff. Instead, you find garbage. An ad masquerading as journalism. Someone trying to sell you junk you don't need. A stupid list of ten stupid things on ten separate pages so they can show you ten times the ads. A "review" that was clearly paid for. Or worst of all, outright evil scams that don't fool you but you know fool many many innocent people. All you can do is press the back button. Retreat. Maybe fume a little.
+You click a link because it promises good stuff. Instead, you find garbage. An ad masquerading as journalism. Someone trying to sell you junk you don't need. A stupid list of ten stupid things on ten separate pages so they can show you ten times the ads. A "review" that was clearly paid for. Or worst of all, an outright evil scam that doesn't fool you but you know fools many many innocent people. All you can do is press the back button. Retreat. Maybe fume a little.
 
 What if instead you could click <span class="garbage-can">![a trash can](./images/garbage-can.svg)</span> and throw the <del>garbage</del> out of *your* web *forever*? What if this same single click
 
