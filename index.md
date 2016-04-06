@@ -12,8 +12,8 @@ You click a link because it promises good stuff. Instead, you find garbage. An a
 What if instead you could click <span class="garbage-can">![a trash can](./images/garbage-can.svg)</span> and throw the <del>garbage</del> out of *your* web *forever*? What if this same single click
 
 - trained your browser to detect and cross out <del>links to garbage</del>?
-- spread a warning to other people's browsers so they could avoid <del>the same garbage<del>?
-- punished <del>websites pushing garbage</del> with lost traffic and lost profits?
+- spread a warning to other people's browsers so they could avoid <del>the same crap<del>?
+- punished <del>websites pushing junk</del> with lost traffic and lost profits?
 
 Would it give you a warm sense of satisfaction? 
 
