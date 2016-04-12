@@ -6,9 +6,9 @@
   <title>{{ site.title }}{% if page.title %} – {{ page.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   
-  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css' type='text/css' />
+  <link rel="stylesheet" href='{{ "/css/normalize.min.css" | prepend: site.baseurl }}' type='text/css'>
   <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Merriweather%3A400%2C300italic%2C300%2C400italic%2C700%2C700italic&#038;subset=latin%2Clatin-ext&#038;ver=4.3' type='text/css' media='all' />
-  <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href='{{ "/css/style.css" | prepend: site.baseurl }}' type='text/css'>
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   {% include mixpanel-lib.html %}
 </head>
