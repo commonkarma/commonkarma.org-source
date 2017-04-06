@@ -15,7 +15,7 @@ What if you could click <span class="garbage-can">![a trash can](./images/garbag
 - spread a warning to other people's browsers so they could avoid <del>the same crap<del>?
 - punished <del>websites pushing junk</del> with lost traffic and lost profits?
 
-Outright garbage booted. Now what about <del>lesser junk</del>? For nearly any topic, from boiling an egg to which politician should be trusted, there are dozens or hundreds of articles. Maybe 1 out of 10 are worth your time. Imagine not wading through ten <del>pieces of junk</del> to find a single good one.
+Outright garbage booted. Now what about <del>lesser junk</del>? For nearly every topic, from boiling an egg to which politician should be trusted, there are dozens or hundreds of articles. Maybe 1 out of 10 are worth your time. Imagine not wading through ten <del>pieces of junk</del> to find a single good one.
 
 Of course one person's garbage is another person's treasure. The system has to be smart enough to only share warnings among people who agreed on what is garbage and what isn't. It has to be done in a way that doesn't separate people into islands of conforming tastes and opinions, that keeps them exposed to challenging ideas. This is a very difficult problem, but when solved another beautiful thing emerges: an inherently un-gameable web. Dishonesty would always backfire. No loopholes. No tricks. What goes around would *always* came around. A web with **karma**. 
 
