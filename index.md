@@ -13,7 +13,7 @@ All you can do is press the back button. Retreat. Fume.
 
 The same junk keeps reappearing in your search results, social media feeds, and regular browsing. You can't make it go away. You can't flag the page for everyone else to see: *Don't go there. Trust me. It's garbage.*
 
-What if you had a <span class="garbage-can">![a trash can](./images/garbage-can.svg)</span> button. You press it and
+What if you had a <span class="garbage-can">![a trash can](./images/garbage-can.svg)</span> button? You press it and
 
 - that <del>garbage</del> is deleted and you never see it again,
 - your browser learns to detect and cross out <del>links to other garbage</del>,
