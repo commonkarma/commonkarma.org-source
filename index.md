@@ -7,7 +7,7 @@ title: What If?
 
 # What if your web browser had a trash can?
 
-You click a link because it promises good things. Instead, you find garbage. Propoganda or paid advertising masquerading as journalism. Someone trying to sell you junk you don't need. A product review written by a shill. More viral nonsense. A stupid list of ten stupid things spread across ten pages so they can show you ten ads. An scam that doesn't fool you but likely hurts many innocent people. 
+You click a link because it promises good things. Instead, you get garbage. Propoganda or paid advertising masquerading as journalism. Someone trying to sell you junk you don't need. A product review written by a shill. More viral nonsense. A stupid list of ten stupid things spread across ten pages so they can show you ten ads. A scam that you know fools many innocent people.
 
 All you can do is press the back button. Retreat. Fume a little.
 
