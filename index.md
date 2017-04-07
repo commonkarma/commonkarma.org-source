@@ -13,16 +13,11 @@ All you can do is press the back button. Retreat. Fume.
 
 More junk from the same perp keeps reappearing in your search results, social media feeds, and regular browsing. You can't make it go away. You wish you could warn other people: *"Don't go there. Trust me. It's garbage."*
 
-What if you had a <span class="garbage-can">![a trash can](./images/garbage-can.svg)</span> button? Press it and
-
-- that <del>garbage</del> is deleted and you never see it again,
-- your browser learns to detect and cross out <del>links to other garbage</del>,
-- and warnings are spread so other people can avoid <del>the same crap<del>,
-- punishing <del>websites pushing junk</del> with lost traffic and lost profits.
+What if you had a <span class="garbage-can">![a trash can](./images/garbage-can.svg)</span> button? By pressing it you toss the <del>garbage</del>, never to see it again. You teach your browser to detect and cross out <del>links to other garbage</del>. Warnings are spread so other people avoid <del>the same crap<del>, punishing <del>websites pushing junk</del> with lost traffic and lost profits.
 
 Over time as your browser learns, you see less and less junk. This works not just for the malicious stuff, but also the <del>lesser junk</del> that isn't worth your time. You no longer have to wade through ten <del>bad things</del> to find a single good one.
 
-Since one person's garbage is another's treasure, the system must be smart enough to share warnings only among people who have the same sense of truth, quality and value. But it has to be done in a way that doesn't separate people into islands of conforming tastes and opinions, that keeps them exposed to challenging ideas. If these seemingly contradictory goals can be achieved together another beautiful thing emerges: an inherently un-gameable web. 
+Since one person's garbage can be another's treasure, the system must be smart enough to share warnings only among people who have the same sense of truth, quality and value. But it has to be done in a way that doesn't separate people into islands of conforming tastes and opinions, that keeps them exposed to challenging ideas. If these seemingly contradictory goals can be achieved together another beautiful thing emerges: an inherently un-gameable web. 
 
 Imagine everyone's combined <span class="garbage-can">![a trash can](./images/garbage-can.svg)</span> clicks turning the tables on <del>click bait</del>, <del>scams</del>, <del>false advertising</del>, <del>fake news</del>  and <del>low quality litter</del>. Imagine a web where dishonesty always backfires. No loopholes. What goes around would *always* came around. A web with accountability. A web with **karma**. 
 
