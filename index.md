@@ -13,7 +13,7 @@ All you can do is press the back button. Retreat. Fume.
 
 More junk from the same perp keeps reappearing in your search results, social media feeds, and regular browsing. You can't make it go away. You wish you could warn other people: *"Don't go there. Trust me. It's garbage."*
 
-What if you had a <span class="garbage-can">![a trash can](./images/garbage-can.svg)</span> button? By pressing it you toss the <del>garbage</del>, never to see it again. You teach your browser to detect and cross out <del>links to other garbage</del>. Warnings are spread so other people avoid <del>the same crap</del>, punishing <del>websites pushing junk</del> with lost traffic and lost profits.
+What if you had a <span class="garbage-can">![a trash can](./images/garbage-can.svg)</span> button? Pressing it throws out the page, banishing it forever. It teaches your browser to automatically detect and cross out <del>links to other garbage</del> whenever they appear, anywhere on the web. Warnings are spread so everyone helps each other clean up the web. <del>Websites pushing junk</del> are punished with lost traffic and lost profits.
 
 Over time as your browser learns, you see less and less junk. This works not just for the malicious stuff, but also the <del>lesser junk</del> that isn't worth your time. You no longer have to wade through ten <del>bad things</del> to find a single good one.
 
