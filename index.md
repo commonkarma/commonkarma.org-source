@@ -5,23 +5,23 @@ title: What If?
 
 
 
-# What if your web had a trash can?
+# What if the web had a trash can?
 
-You click a link because it promises good things. Instead, you get garbage. Propoganda or paid advertising masquerading as journalism. Someone trying to sell you junk you don't need. A product review written by a shill. More viral nonsense. A stupid list of ten stupid things spread across ten pages so they can show you ten ads. A scam you know hurts many innocent people.
+You click a link because it promises good things. Instead, you get garbage. Propoganda or paid advertising masquerading as journalism. Someone trying to sell you junk you don't need. A product review written by a shill. More viral nonsense. A stupid list of ten stupid things spread across ten pages so they can show you ten ads. A scam you know hurts many innocent people. Or something just poorly written or plain wrong. 
 
-All you can do is press the back button. Retreat. Fume.
+All you can do is press the back button. Retreat. 
+
+You were just had. And they just made money. This is how the web works today. 
 
 More junk from the same perp keeps reappearing in your search results, social media feeds, and regular browsing. You can't make it go away. You wish you could warn other people: *"Don't go there. Trust me. It's garbage."*
 
-What if you had a <span class="garbage-can">![a trash can](./images/garbage-can.svg)</span> button? Pressing it throws out the page, banishing it forever. It teaches your browser to automatically detect and cross out <del>links to other garbage</del> whenever they appear, anywhere on the web. Warnings are spread so everyone helps each other clean up the web. <del>Websites pushing junk</del> are punished with lost traffic and lost profits.
+What if your browser had a <span class="garbage-can">![a trash can](./images/garbage-can.svg)</span> button? You press it and the page you're on is marked as garbage and thrown out. Your browser learns from each mark, automatically detecting and crossing out <del>links to other garbage</del>. Marks are shared across millions of users, and soon most garbage on the web is marked. You no longer have to wade through ten <del>bad things</del> to find one good one. Producers of <del>click bait</del>, <del>scams</del>, <del>false advertising</del>, <del>fake news</del> and <del>junk</del> are punished with lost traffic and dwindling profits. They go out of business, reducing web garbage ever further.
 
-Over time as your browser learns, you see less and less junk. This works not just for the malicious stuff, but also the <del>lesser junk</del> that isn't worth your time. You no longer have to wade through ten <del>bad things</del> to find a single good one.
+How can this work if people disagree on what is garbage? If we  share marks only between people with similar standards of truth and utility, how do we avoid separating everyone into bubbles of conforming tastes and opinions? I believe I have the solution, a solution that has an incredibly valuable side-effect: the web becomes inherently *un-gameable*. 
 
-Since one person's garbage can be another's treasure, the system must be smart enough to share warnings only among people who have the same sense of truth, quality and value. But it has to be done in a way that doesn't separate people into islands of conforming tastes and opinions, that keeps them exposed to challenging ideas. If these seemingly contradictory goals can be achieved together another beautiful thing emerges: an inherently un-gameable web. 
+Imagine a web where dishonesty always backfires. Where what goes around *always* comes around. A web with accountability. A web with **karma**. 
 
-Imagine everyone's combined <span class="garbage-can">![a trash can](./images/garbage-can.svg)</span> clicks turning the tables on <del>click bait</del>, <del>scams</del>, <del>false advertising</del>, <del>fake news</del>  and <del>low quality litter</del>. Imagine a web where dishonesty always backfires. No loopholes. What goes around would *always* came around. A web with accountability. A web with **karma**. 
-
-Healthy discourse would have a chance. Trustworthy information would beat <del>lies</del>. Journalism would be journalism again. 
+Healthy discourse would have a chance. Trust would trounce <del>lies</del>. Journalism would be journalism again. 
 
 If this sounds radically ambitious, it is. It has to be. We need this. 
 
