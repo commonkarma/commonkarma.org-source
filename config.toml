@@ -1,0 +1,4 @@
+baseurl = "http://www.commonkarma.org"
+title = "CommonKarma.org"
+languageCode = "en-us"
+disableKinds = [ "taxonomy", "RSS", "sitemap" ]

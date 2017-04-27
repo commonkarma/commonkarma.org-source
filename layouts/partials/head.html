@@ -1,0 +1,16 @@
+{{ $isHomePage := eq .Title .Site.Title }}
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ .Site.Title }}{{ if eq $isHomePage false }} - {{ .Title }}{{ end }}</title>
+  {{ if .Description }}<meta name="description" content="{{ .Description }}">{{ end }}
+
+  <link rel="stylesheet" href='{{ .Site.BaseURL }}/css/normalize.min.css' type='text/css'>
+  <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Merriweather%3A400%2C300italic%2C300%2C400italic%2C700%2C700italic&#038;subset=latin%2Clatin-ext&#038;ver=4.3' type='text/css' media='all' />
+  <link rel="stylesheet" href='{{ .Site.BaseURL }}/css/style.css' type='text/css'>
+  <link rel='canonical' href='{{ .Site.BaseURL }}{{ replace .URL "index.html" "" }}'>
+  {{ partial "mixpanel-lib.html" . }}
+</head>
+

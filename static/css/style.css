@@ -1,10 +1,5 @@
----
----
-
 /* assumes use of normalize.css v3.0.3 */
 /* some style elements from http://sarahwerner.net/blog/2015/07/how-to-destroy-special-collections-with-social-media/ */
-
-
 html {
   font-family: Merriweather, Georgia, 'Times New Roman', serif;
   font-size: 18px;
@@ -15,26 +10,18 @@ html {
   /* Prevents iOS text size adjust after orientation change, without disabling user zoom */
   -webkit-text-size-adjust: 100%;
   /* www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/ */
-  -ms-text-size-adjust: 100%;
-}
-
-body {
-}
+  -ms-text-size-adjust: 100%; }
 
 p.site-logo {
   font-weight: 300;
   font-size: 2.61111em;
   line-height: 1.26383em;
   text-align: center;
-  color: #ea610b;
-}
+  color: #ea610b; }
 
 a.site-logo {
   text-decoration: none;
-  color:inherit;
-}
-
-
+  color: inherit; }
 
 .wrapper {
   max-width: 770px;
@@ -42,90 +29,67 @@ a.site-logo {
   padding-left: 30px;
   padding-right: 30px;
   padding-top: 30px;
-  margin: 0 auto;
-}
+  margin: 0 auto; }
 
 .main {
   font-weight: 300;
   font-style: italic;
-  color: #444;  
-  margin: 2em 0 0 0;
-  b, strong {  
+  color: #444;
+  margin: 2em 0 0 0; }
+  .main b, .main strong {
     color: #ea610b;
-    font-weight: bold;
-  }
-}
-
+    font-weight: bold; }
 
 .main a {
-  color: inherit;
-}
+  color: inherit; }
 
 .main a:hover, a:focus, a:active {
-  color: #ea610b;
-}
+  color: #ea610b; }
 
 .main del {
-    -moz-text-decoration-color: red;
-    text-decoration-color: red;
-}
+  -moz-text-decoration-color: red;
+  text-decoration-color: red; }
 
 .garbage-can img {
   height: 44px;
   width: 44px;
   margin-bottom: -10px;
   margin-left: -3px;
-  margin-right: -3px;
-}
+  margin-right: -3px; }
 
 ul {
   list-style-type: circle;
-  margin: 5px;
-}
+  margin: 5px; }
 
 ul li {
   padding-left: 5px;
-  padding-bottom: 5px;
-}
+  padding-bottom: 5px; }
 
 /* make responsive */
-
 @media screen and (max-width: 800px) {
   p.site-logo {
     font-size: 1.83333em;
-    line-height: 1.8em;
-  }
+    line-height: 1.8em; }
+
   body {
     font-size: 0.88889em;
-    line-height: 1.85625em;
-  }
-  h1 {
-    font-size: 2.0em;
-  }
-}
+    line-height: 1.85625em; }
 
+  h1 {
+    font-size: 2.0em; } }
 @media screen and (max-width: 700px) {
   h1 {
-    font-size: 1.7em;
-  }
-}
-
+    font-size: 1.7em; } }
 @media screen and (max-width: 600px) {
   h1 {
-    font-size: 1.5em;
-  }
-}
-
+    font-size: 1.5em; } }
 @media screen and (max-width: 320px) {
   .wrapper {
     padding-bottom: 30px;
     padding-left: 10px;
     padding-right: 10px;
     padding-top: 30px;
-    margin: 0 auto;
-  }
-  ul {
-    margin: 0px;
-  }
-}
+    margin: 0 auto; }
 
+  ul {
+    margin: 0px; } }
