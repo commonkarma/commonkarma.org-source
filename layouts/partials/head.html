@@ -1,10 +1,9 @@
-{{ $isHomePage := eq .Title .Site.Title }}
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{{ .Site.Title }}{{ if eq $isHomePage false }} - {{ .Title }}{{ end }}</title>
+  <title>{{ .Site.Title }}{{ if .Title }} - {{ .Title }}{{ end }}</title>
   {{ if .Description }}<meta name="description" content="{{ .Description }}">{{ end }}
 
   <link rel="stylesheet" href='{{ .Site.BaseURL }}/css/normalize.min.css' type='text/css'>

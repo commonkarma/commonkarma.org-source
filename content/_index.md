@@ -1,6 +1,5 @@
 ---
 layout: plain
-title: What If?
 ---
 
 
